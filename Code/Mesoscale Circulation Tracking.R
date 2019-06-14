@@ -4,7 +4,8 @@
 # 6-15-2016 Grant Adams
 # 05.24.2019 Some small modifications by R. Leaf
 
-# contact Grant Adams grantadams60091@gmail.com for questions about the real work in this code. 
+# contact Grant Adams grantadams60091@gmail.com for questions about 
+# the calculations in this code. 
 
 # Load required packages
 require(raster)
